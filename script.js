@@ -17,19 +17,19 @@ navContactsM.addEventListener('click', redirectContacts);
 
 function redirectHome()
 {
-	location.href = "../home/index.html";
+	location.href = "index.html";
 }
 function redirectAbout()
 {
-	location.href = "../about/index.html";
+	location.href = "./about/index.html";
 }
 function redirectConstructor()
 {
-	location.href = "../constructor/index.html";
+	location.href = "./constructor/index.html";
 }
 function redirectContacts()
 {
-	location.href = "../contacts/index.html";
+	location.href = "./contacts/index.html";
 }
 
 var navBtn = document.querySelector('#navBtn');
