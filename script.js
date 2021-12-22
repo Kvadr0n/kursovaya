@@ -17,7 +17,7 @@ navContactsM.addEventListener('click', redirectContacts);
 
 function redirectHome()
 {
-	location.href = "https://kvadr0n.github.io/kursovaya/";
+	location.href = "./kursach/index.html";
 }
 function redirectAbout()
 {
