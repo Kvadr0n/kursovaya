@@ -17,7 +17,7 @@ navContactsM.addEventListener('click', redirectContacts);
 
 function redirectHome()
 {
-	location.href = "./kursach/index.html";
+	location.href = "./index.html";
 }
 function redirectAbout()
 {
