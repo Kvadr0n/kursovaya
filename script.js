@@ -17,7 +17,7 @@ navContactsM.addEventListener('click', redirectContacts);
 
 function redirectHome()
 {
-	location.href = "./index.html";
+	location.href = "./home/index.html";
 }
 function redirectAbout()
 {
